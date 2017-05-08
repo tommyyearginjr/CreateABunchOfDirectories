@@ -1,3 +1,5 @@
+# Creates a number of directories supplied by the user.
+
 import os
 
 NumberOfDirectories = input('How many directories do you want to create? ')
